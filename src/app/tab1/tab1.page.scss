@@ -1,0 +1,16 @@
+.no-scroll {
+    --overflow: hidden;
+}
+.round-button{
+    position: absolute;
+    bottom: 50px; left: 50px;
+    --border-radius: 54px;
+    --background: #00b8cd !important;
+    --box-shadow: 3px 3px 1px #5999cdc3, -3px -3px 1px #5999cdc3;
+    width: 54px !important;
+    height: 54px !important;
+    transition: 200ms;
+}
+iframe{
+    border: none;
+}
